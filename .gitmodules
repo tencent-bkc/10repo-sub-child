@@ -1,0 +1,3 @@
+[submodule "nested/leaf"]
+	path = nested/leaf
+	url = ../10repo-sub-leaf.git
